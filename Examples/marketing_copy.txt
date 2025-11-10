@@ -1,0 +1,19 @@
+🎯 MARKETING COPY EXAMPLE
+-----------------------------
+Input: "promote new fitness app with 30-day challenge"
+
+Output:
+Ready to transform your fitness in 30 days? 💪
+
+Introducing FitQuest - the app that makes getting in shape actually enjoyable!
+
+🎯 What you get:
+• Personalized 30-day workout plan
+• Daily nutrition guidance
+• Progress tracking and milestones
+• Supportive community of fitness enthusiasts
+
+Download now and get 50% off your first month! 
+Use code: FIT30
+
+#FitnessApp #WorkoutChallenge #HealthGoals #FitnessJourney

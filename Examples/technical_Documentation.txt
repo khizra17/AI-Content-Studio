@@ -1,0 +1,16 @@
+🔧 TECHNICAL DOCUMENTATION EXAMPLE
+-------------------------------------
+Input: "API authentication setup instructions"
+
+Output:
+API Authentication Setup Guide
+
+1. Obtain your API key from the developer dashboard
+2. Include the API key in the request header:
+   Authorization: Bearer YOUR_API_KEY
+3. Make sure your requests use HTTPS only
+4. Rate limit: 1000 requests per hour per key
+
+Example cURL request:
+curl -X GET "https://api.example.com/v1/users" \
+  -H "Authorization: Bearer YOUR_API_KEY"
